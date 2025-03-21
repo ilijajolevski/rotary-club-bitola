@@ -30,7 +30,7 @@
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Polio</title>
+      <title>End Polio</title>
       <link>http://localhost:1313/en/projects/polio/</link>
       <pubDate>Wed, 15 Feb 2023 12:00:00 +0100</pubDate>
       <guid>http://localhost:1313/en/projects/polio/</guid>
@@ -49,6 +49,20 @@
       <pubDate>Sat, 19 Nov 2022 10:47:58 +1000</pubDate>
       <guid>http://localhost:1313/en/members/vladimir-kosturski/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>25 years of Rotary Club Bitola</title>
+      <link>http://localhost:1313/en/projects/25god/</link>
+      <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/projects/25god/</guid>
+      <description>25 years of Rotary Club Bitola</description>
+    </item>
+    <item>
+      <title>Historic water fountain restoration</title>
+      <link>http://localhost:1313/en/projects/cesmata/</link>
+      <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/projects/cesmata/</guid>
+      <description>Restoration of a cultural heritage site in Bitola</description>
     </item>
   </channel>
 </rss>

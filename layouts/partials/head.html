@@ -130,3 +130,7 @@
 {{ range .Translations }}
 <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
 {{ end }}
+
+{{ if eq .Type "projects" }}
+  <link rel="stylesheet" href="{{ "assets/css/projects.css" | relURL }}">
+{{ end }}

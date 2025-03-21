@@ -9,11 +9,25 @@
     <lastBuildDate>Wed, 15 Feb 2023 12:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/mk/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Polio</title>
+      <title>Крај на Полио-то</title>
       <link>http://localhost:1313/mk/projects/polio/</link>
       <pubDate>Wed, 15 Feb 2023 12:00:00 +0100</pubDate>
       <guid>http://localhost:1313/mk/projects/polio/</guid>
-      <description>Our contribution to eradicate polio worldwide</description>
+      <description>Нашиот придонес за искоренување на полиото во светот</description>
+    </item>
+    <item>
+      <title>25 години Ротари Клуб Битола</title>
+      <link>http://localhost:1313/mk/projects/25god/</link>
+      <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/mk/projects/25god/</guid>
+      <description>Прослава на четврт век хуманитарна работа и посветеност на заедницата на Ротари Клуб Битола, одбележана со свечен настан и признанија за истакнати придонеси.</description>
+    </item>
+    <item>
+      <title>Реставрација на историската чешма кај Офицерски дом</title>
+      <link>http://localhost:1313/mk/projects/cesmata/</link>
+      <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/mk/projects/cesmata/</guid>
+      <description>Реставрација на историската чешма кај Офицерски дом</description>
     </item>
   </channel>
 </rss>

@@ -30,11 +30,11 @@
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Polio</title>
+      <title>Крај на Полио-то</title>
       <link>http://localhost:1313/mk/projects/polio/</link>
       <pubDate>Wed, 15 Feb 2023 12:00:00 +0100</pubDate>
       <guid>http://localhost:1313/mk/projects/polio/</guid>
-      <description>Our contribution to eradicate polio worldwide</description>
+      <description>Нашиот придонес за искоренување на полиото во светот</description>
     </item>
     <item>
       <title>Владимир Костурски</title>
@@ -49,6 +49,20 @@
       <pubDate>Sat, 19 Nov 2022 10:47:58 +1000</pubDate>
       <guid>http://localhost:1313/mk/members/mende-micevski/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>25 години Ротари Клуб Битола</title>
+      <link>http://localhost:1313/mk/projects/25god/</link>
+      <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/mk/projects/25god/</guid>
+      <description>Прослава на четврт век хуманитарна работа и посветеност на заедницата на Ротари Клуб Битола, одбележана со свечен настан и признанија за истакнати придонеси.</description>
+    </item>
+    <item>
+      <title>Реставрација на историската чешма кај Офицерски дом</title>
+      <link>http://localhost:1313/mk/projects/cesmata/</link>
+      <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/mk/projects/cesmata/</guid>
+      <description>Реставрација на историската чешма кај Офицерски дом</description>
     </item>
   </channel>
 </rss>

@@ -3,18 +3,30 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     
+    <style>
+        .project-card {
+            text-decoration: none;
+            color: inherit; /* Uses the parent element's text color */
+        }
+        .project-card:visited {
+            color: inherit; /* Keeps the color consistent even after visiting */
+        }
+    </style>
+    
     <div class="project-list">
         {{ range .Pages }}
-        <div class="project-card">
+        <a href="{{ .RelPermalink }}" class="project-card">
             {{ with .Params.image }}
-            <img src="{{ . }}" alt="{{ $.Title }}">
+            <div class="project-image">
+                <img src="{{ . }}" alt="{{ $.Title }}">
+            </div>
             {{ end }}
             <div class="project-card-content">
                 <h3>{{ .Title }}</h3>
                 {{ .Summary }}
-                <a href="{{ .RelPermalink }}" class="read-more">{{ i18n "readMore" }}</a>
+                <span class="read-more">{{ i18n "readMore" }}</span>
             </div>
-        </div>
+        </a>
         {{ end }}
     </div>
 </div>
