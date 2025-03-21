@@ -1,0 +1,12 @@
+- id: projects
+  translation: "Projects"
+- id: members
+  translation: "Members"
+- id: about
+  translation: "About"
+- id: contact
+  translation: "Contact"
+- id: meetingInfo
+  translation: "Regular meetings every Monday 20:00 at hotel Kapri"
+- id: readMore
+  translation: "Read more"

@@ -1,0 +1,24 @@
+<header>
+    <div class="container">
+        <nav>
+            <a href="{{ .Site.Home.RelPermalink }}">
+                <img class="logo" src="{{ .Site.Params.mainLogo }}" alt="{{ .Site.Title }}">
+            </a>
+            <ul>
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <li>
+                    <a href="{{ .URL | relLangURL }}" {{ if $currentPage.IsMenuCurrent "main" . }}class="active"{{ end }}>
+                        {{ i18n .Identifier | default .Name }}
+                    </a>
+                </li>
+                {{ end }}
+                <li class="lang-switch">
+                    {{ range .Translations }}
+                    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                    {{ end }}
+                </li>
+            </ul>
+        </nav>
+    </div>
+</header>

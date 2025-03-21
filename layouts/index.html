@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="container">
+    <div class="home-hero">
+        <div class="hero-content">
+            <h1>{{ .Title }}</h1>
+            {{ .Content }}
+            <p>{{ i18n "meetingInfo" }}</p>
+            <div class="cta-buttons">
+                <a href="{{ "contact" | relLangURL }}" class="btn primary">{{ i18n "contact" }}</a>
+            </div>
+        </div>
+        <div class="hero-image">
+            <!-- SVG Rotary wheel -->
+            {{ with resources.Get "images/rotary-wheel.svg" }}
+            {{ .Content | safeHTML }}
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}

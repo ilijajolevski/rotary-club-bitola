@@ -1,0 +1,58 @@
+baseURL = "https://rotarymacedonia.mk/"
+title = "Rotary Club Bitola"
+defaultContentLanguage = "mk"
+defaultContentLanguageInSubdir = true
+
+# Enable syntax highlighting
+pygmentsCodeFences = true
+pygmentsStyle = "monokai"
+
+# Enable fast rendering
+disableKinds = ["taxonomy", "taxonomyTerm"]
+enableRobotsTXT = true
+
+[languages]
+  [languages.mk]
+    languageName = "Македонски"
+    contentDir = "content/mk"
+    weight = 1
+    [languages.mk.params]
+      description = "Ротари Клуб Битола"
+  [languages.en]
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 2
+    [languages.en.params]
+      description = "Rotary Club Bitola"
+
+[menu]
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 1
+  [[menu.main]]
+    identifier = "members"
+    name = "Members"
+    url = "/members/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[params]
+  # Site parameters
+  mainLogo = "/images/rotary-wheel.svg"
+  footer = "Rotary Club Bitola"
+  district = "1912"
+  email = "rotaryclubbitola@gmail.com"
+  meetingTime = "Monday 20:00"
+  meetingLocation = "hotel Milenium"
+  websiteUrl = "rotarymacedonia.mk"

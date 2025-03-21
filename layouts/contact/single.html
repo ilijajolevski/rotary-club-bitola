@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    
+    <div class="contact-info">
+        <p class="contact-email">{{ .Site.Params.email }}</p>
+        <p class="contact-meeting">{{ i18n "meetingInfo" }}</p>
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on Rotary Club Bitola</title>
+    <link>http://localhost:1313/en/members/</link>
+    <description>Recent content in Members on Rotary Club Bitola</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Mar 2023 12:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/members/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rade Hristovski</title>
+      <link>http://localhost:1313/en/members/example-member/</link>
+      <pubDate>Mon, 20 Mar 2023 12:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/members/example-member/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
