@@ -6,4 +6,4 @@ draft: false
 
 Our Club is made up of about thirty members of all ages who meet every week. The members of Rotary Club Bitola are active professionals, coming from very varied fields of activity, and who try to embody the ideal of service of Rotary.
 
-We are 25 year old club this year
+We are 90 year old club this year

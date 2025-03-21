@@ -1,9 +1,9 @@
 ---
-title: "Rotary Club Bitola"
+title: "Ротари Клуб Битола"
 date: 2023-03-20T12:00:00+01:00
 draft: false
 ---
 
-Our Club is made up of about thirty members of all ages who meet every week. The members of Rotary Club Bitola are active professionals, coming from very varied fields of activity, and who try to embody the ideal of service of Rotary.
+Нашиот ротари клуб е составен од околу триесет членови од сите возрасти кои се среќаваат секоја недела. Членовите на Ротари Клуб Битола се активни професионалци, кои доаѓаат од многу различни области на дејност и кои се обидуваат да го олицетворат идеалот за служба на Ротари.
 
-We are 25 year old club this year
+Оваа година нашиот клуб е стар 90 години.
