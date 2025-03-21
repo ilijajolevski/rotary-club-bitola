@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Members on Rotary Club Bitola</title>
+    <title>Членови на клубот on Rotary Club Bitola</title>
     <link>http://localhost:1313/mk/members/</link>
-    <description>Recent content in Members on Rotary Club Bitola</description>
+    <description>Recent content in Членови на клубот on Rotary Club Bitola</description>
     <generator>Hugo</generator>
     <language>mk</language>
     <lastBuildDate>Mon, 20 Mar 2023 12:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/mk/members/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rade Hristovski</title>
-      <link>http://localhost:1313/mk/members/example-member/</link>
+      <title>Илија Јолевски</title>
+      <link>http://localhost:1313/mk/members/ilija-jolevski/</link>
       <pubDate>Mon, 20 Mar 2023 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/mk/members/example-member/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna&amp;hellip;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/mk/members/ilija-jolevski/</guid>
+      <description>&lt;p&gt;University professor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Раде Христовски</title>
+      <link>http://localhost:1313/mk/members/rade-hristovski/</link>
+      <pubDate>Mon, 20 Mar 2023 12:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/mk/members/rade-hristovski/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Тони Дранговски</title>
+      <link>http://localhost:1313/mk/members/toni-drangovski/</link>
+      <pubDate>Mon, 20 Mar 2023 12:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/mk/members/toni-drangovski/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Владимир Костурски</title>
+      <link>http://localhost:1313/mk/members/vladimir-kosturski/</link>
+      <pubDate>Sat, 19 Nov 2022 10:47:58 +1000</pubDate>
+      <guid>http://localhost:1313/mk/members/vladimir-kosturski/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Менде Мицевски</title>
+      <link>http://localhost:1313/mk/members/mende-micevski/</link>
+      <pubDate>Sat, 19 Nov 2022 10:47:58 +1000</pubDate>
+      <guid>http://localhost:1313/mk/members/mende-micevski/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,19 @@
 {{ define "main" }}
 <div class="container">
     <h1>{{ .Title }}</h1>
-    {{ .Content }}
     
-    <div class="members-grid">
+    <div class="members-intro">
+        <div class="members-intro-content two-columns">
+            <div class="members-intro-text">
+                {{ .Content }}
+            </div>
+            <div class="members-intro-image">
+                <img src="/images/members/group-photo.jpg" alt="Rotary Club Bitola Members">
+            </div>
+        </div>
+    </div>
+    
+    <div class="members-grid two-columns">
         {{ range .Pages }}
         <div class="member-card">
             {{ with .Params.photo }}
@@ -22,4 +32,34 @@
         {{ end }}
     </div>
 </div>
+
+<style>
+    .members-intro-content.two-columns {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 2rem;
+        margin-bottom: 2rem;
+    }
+    
+    .members-intro-image img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .members-grid.two-columns {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 2rem;
+    }
+    
+    @media (max-width: 768px) {
+        .members-intro-content.two-columns {
+            grid-template-columns: 1fr;
+        }
+        
+        .members-grid.two-columns {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>
 {{ end }}
