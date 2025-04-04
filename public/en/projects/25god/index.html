@@ -23,6 +23,9 @@
 <link rel="canonical" href="http://localhost:1313/en/projects/25god/">
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 <style>
     :root {
         --rotary-blue: #0c3c7c;
@@ -153,20 +156,20 @@
                 
                 
                 <li>
+                    <a href="/en/" >
+                        Home
+                    </a>
+                </li>
+                
+                <li>
                     <a href="/en/projects/" >
-                        Projects
+                        Projects and events
                     </a>
                 </li>
                 
                 <li>
                     <a href="/en/members/" >
                         Members
-                    </a>
-                </li>
-                
-                <li>
-                    <a href="/en/about/" >
-                        About
                     </a>
                 </li>
                 
@@ -209,8 +212,96 @@
 <p>Looking toward the future, Rotary Club Bitola reaffirmed its dedication to continue its humanitarian mission with the same enthusiasm and commitment that has characterized its first 25 years. The celebration concluded with a social gathering that strengthened the bonds between members and reinforced the spirit of fellowship that is fundamental to the Rotary movement.</p>
 
         </div>
+        
+        
+        <div class="project-gallery">
+            <div class="gallery-container">
+                
+                <div class="gallery">
+                    <a target="_blank" href="/images/projects/25god.jpg">
+                        <img src="/images/projects/25god.jpg" alt="25 years anniversary celebration" width="600" height="400">
+                    </a>
+                    <div class="desc">25 years anniversary celebration</div>
+                </div>
+                
+                <div class="gallery">
+                    <a target="_blank" href="/images/projects/25god.jpg">
+                        <img src="/images/projects/25god.jpg" alt="Rotary Club Bitola anniversary" width="600" height="400">
+                    </a>
+                    <div class="desc">Rotary Club Bitola anniversary</div>
+                </div>
+                
+                <div class="gallery">
+                    <a target="_blank" href="/images/projects/cesma1.jpg">
+                        <img src="/images/projects/cesma1.jpg" alt="" width="600" height="400">
+                    </a>
+                    <div class="desc"></div>
+                </div>
+                
+                <div class="gallery">
+                    <a target="_blank" href="/images/projects/End-Polio.png">
+                        <img src="/images/projects/End-Polio.png" alt="End Polio initiative" width="600" height="400">
+                    </a>
+                    <div class="desc">End Polio initiative</div>
+                </div>
+                
+            </div>
+        </div>
+        
     </article>
 </div>
+
+<style>
+    .project-gallery {
+        margin-top: 2rem;
+    }
+    
+    .gallery-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 20px;
+    }
+    
+    .gallery {
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        width: calc(33.33% - 20px);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        transition: 0.3s;
+    }
+    
+    .gallery:hover {
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    }
+    
+    .gallery img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+    
+    .gallery a {
+        display: block;
+    }
+    
+    .desc {
+        padding: 15px;
+        text-align: center;
+    }
+    
+    @media (max-width: 768px) {
+        .gallery {
+            width: calc(50% - 15px);
+        }
+    }
+    
+    @media (max-width: 480px) {
+        .gallery {
+            width: 100%;
+        }
+    }
+</style>
 
     </main>
     <footer>

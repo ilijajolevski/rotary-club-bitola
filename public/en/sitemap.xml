@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/en/members/toni-drangovski/</loc>
+    <lastmod>2023-03-20T12:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mk"
+                href="http://localhost:1313/mk/members/toni-drangovski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/members/toni-drangovski/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/members/rade-hristovski/</loc>
+    <lastmod>2023-03-20T12:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mk"
+                href="http://localhost:1313/mk/members/rade-hristovski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/members/rade-hristovski/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/members/</loc>
     <lastmod>2023-03-20T12:00:00+01:00</lastmod>
     <xhtml:link
@@ -28,19 +54,6 @@
                 href="http://localhost:1313/en/members/ilija-jolevski/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/rade-hristovski/</loc>
-    <lastmod>2023-03-20T12:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="http://localhost:1313/mk/members/rade-hristovski/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/members/rade-hristovski/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/</loc>
     <lastmod>2023-03-20T12:00:00+01:00</lastmod>
     <xhtml:link
@@ -52,19 +65,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/members/toni-drangovski/</loc>
-    <lastmod>2023-03-20T12:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="http://localhost:1313/mk/members/toni-drangovski/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/members/toni-drangovski/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/projects/polio/</loc>

@@ -1,5 +1,5 @@
 - id: projects
-  translation: "Проекти"
+  translation: "Проекти и настани"
 - id: members
   translation: "Членови"
 - id: about
@@ -10,3 +10,5 @@
   translation: "Редовни состаноци секој понеделник во 20:00 во хотел Милениум - Битола"
 - id: readMore
   translation: "Повеќе"
+- id: home
+  translation: "Дома"

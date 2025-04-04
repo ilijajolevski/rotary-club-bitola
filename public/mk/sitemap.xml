@@ -2,17 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/mk/members/ilija-jolevski/</loc>
+    <loc>http://localhost:1313/mk/members/toni-drangovski/</loc>
     <lastmod>2023-03-20T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/members/ilija-jolevski/"
+                href="http://localhost:1313/en/members/toni-drangovski/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="mk"
-                href="http://localhost:1313/mk/members/ilija-jolevski/"
+                href="http://localhost:1313/mk/members/toni-drangovski/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mk/projects/25god/</loc>
+    <lastmod>2021-06-25T12:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/projects/25god/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mk"
+                href="http://localhost:1313/mk/projects/25god/"
                 />
   </url><url>
     <loc>http://localhost:1313/mk/members/rade-hristovski/</loc>
@@ -28,6 +41,45 @@
                 href="http://localhost:1313/mk/members/rade-hristovski/"
                 />
   </url><url>
+    <loc>http://localhost:1313/mk/projects/cesmata/</loc>
+    <lastmod>2021-06-25T12:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/projects/cesmata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mk"
+                href="http://localhost:1313/mk/projects/cesmata/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mk/members/mende-micevski/</loc>
+    <lastmod>2022-11-19T10:47:58+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/members/mende-micevski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mk"
+                href="http://localhost:1313/mk/members/mende-micevski/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mk/members/ilija-jolevski/</loc>
+    <lastmod>2023-03-20T12:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/members/ilija-jolevski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mk"
+                href="http://localhost:1313/mk/members/ilija-jolevski/"
+                />
+  </url><url>
     <loc>http://localhost:1313/mk/</loc>
     <lastmod>2023-03-20T12:00:00+01:00</lastmod>
     <xhtml:link
@@ -39,19 +91,6 @@
                 rel="alternate"
                 hreflang="mk"
                 href="http://localhost:1313/mk/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/mk/members/toni-drangovski/</loc>
-    <lastmod>2023-03-20T12:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/members/toni-drangovski/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="http://localhost:1313/mk/members/toni-drangovski/"
                 />
   </url><url>
     <loc>http://localhost:1313/mk/members/</loc>
@@ -104,45 +143,6 @@
                 rel="alternate"
                 hreflang="mk"
                 href="http://localhost:1313/mk/members/vladimir-kosturski/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/mk/members/mende-micevski/</loc>
-    <lastmod>2022-11-19T10:47:58+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/members/mende-micevski/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="http://localhost:1313/mk/members/mende-micevski/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/mk/projects/25god/</loc>
-    <lastmod>2021-06-25T12:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/projects/25god/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="http://localhost:1313/mk/projects/25god/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/mk/projects/cesmata/</loc>
-    <lastmod>2021-06-25T12:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/projects/cesmata/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="http://localhost:1313/mk/projects/cesmata/"
                 />
   </url><url>
     <loc>http://localhost:1313/mk/about/</loc>

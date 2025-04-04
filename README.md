@@ -143,12 +143,25 @@ Each project page (.md file) in content/*/projects/ should have front matter:
 title: "Project Name"
 date: 2023-03-20T12:00:00+01:00
 draft: false
-image: "/images/projects/project-name.jpg"
+mainImage: "/images/projects/project-name.jpg"  # Main image for list views
 summary: "Brief project description"
+gallery:
+  - "/images/projects/project-name-1.jpg"
+  - "/images/projects/project-name-2.jpg" 
+  - "/images/projects/project-name-3.jpg"
 ---
 
 Detailed project information...
 ```
+
+## Image Gallery Implementation
+
+The project uses lightGalleryJS (https://github.com/sachinchoolur/lightGallery) to display image galleries:
+
+1. The library is loaded in the project single template
+2. Gallery images specified in the frontmatter are rendered as thumbnails
+3. Clicking any image opens the lightGallery viewer with navigation controls
+4. The `mainImage` is used on project list pages, while all `gallery` images are displayed on the project detail page
 
 ## Build and Deployment
 

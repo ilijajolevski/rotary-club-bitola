@@ -1,5 +1,5 @@
 - id: projects
-  translation: "Projects"
+  translation: "Projects and events"
 - id: members
   translation: "Members"
 - id: about
@@ -10,3 +10,5 @@
   translation: "Regular meetings every Monday 20:00 at hotel Milenium - Bitola"
 - id: readMore
   translation: "Read more"
+- id: home
+  translation: "Home"

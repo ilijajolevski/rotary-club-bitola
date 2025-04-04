@@ -9,11 +9,18 @@
     <lastBuildDate>Mon, 20 Mar 2023 12:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/mk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Илија Јолевски</title>
-      <link>http://localhost:1313/mk/members/ilija-jolevski/</link>
+      <title>Тони Дранговски</title>
+      <link>http://localhost:1313/mk/members/toni-drangovski/</link>
       <pubDate>Mon, 20 Mar 2023 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/mk/members/ilija-jolevski/</guid>
-      <description>&lt;p&gt;University professor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/mk/members/toni-drangovski/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>25 години Ротари Клуб Битола</title>
+      <link>http://localhost:1313/mk/projects/25god/</link>
+      <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/mk/projects/25god/</guid>
+      <description>Прослава на четврт век хуманитарна работа и посветеност на заедницата на Ротари Клуб Битола, одбележана со свечен настан и признанија за истакнати придонеси.</description>
     </item>
     <item>
       <title>Раде Христовски</title>
@@ -23,11 +30,25 @@
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Тони Дранговски</title>
-      <link>http://localhost:1313/mk/members/toni-drangovski/</link>
+      <title>Реставрација на историската чешма кај Офицерски дом</title>
+      <link>http://localhost:1313/mk/projects/cesmata/</link>
+      <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/mk/projects/cesmata/</guid>
+      <description>Реставрација на историската чешма кај Офицерски дом</description>
+    </item>
+    <item>
+      <title>Менде Мицевски</title>
+      <link>http://localhost:1313/mk/members/mende-micevski/</link>
+      <pubDate>Sat, 19 Nov 2022 10:47:58 +1000</pubDate>
+      <guid>http://localhost:1313/mk/members/mende-micevski/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Илија Јолевски</title>
+      <link>http://localhost:1313/mk/members/ilija-jolevski/</link>
       <pubDate>Mon, 20 Mar 2023 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/mk/members/toni-drangovski/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/mk/members/ilija-jolevski/</guid>
+      <description>&lt;p&gt;University professor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Крај на Полио-то</title>
@@ -42,27 +63,6 @@
       <pubDate>Sat, 19 Nov 2022 10:47:58 +1000</pubDate>
       <guid>http://localhost:1313/mk/members/vladimir-kosturski/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Менде Мицевски</title>
-      <link>http://localhost:1313/mk/members/mende-micevski/</link>
-      <pubDate>Sat, 19 Nov 2022 10:47:58 +1000</pubDate>
-      <guid>http://localhost:1313/mk/members/mende-micevski/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>25 години Ротари Клуб Битола</title>
-      <link>http://localhost:1313/mk/projects/25god/</link>
-      <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/mk/projects/25god/</guid>
-      <description>Прослава на четврт век хуманитарна работа и посветеност на заедницата на Ротари Клуб Битола, одбележана со свечен настан и признанија за истакнати придонеси.</description>
-    </item>
-    <item>
-      <title>Реставрација на историската чешма кај Офицерски дом</title>
-      <link>http://localhost:1313/mk/projects/cesmata/</link>
-      <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/mk/projects/cesmata/</guid>
-      <description>Реставрација на историската чешма кај Офицерски дом</description>
     </item>
   </channel>
 </rss>

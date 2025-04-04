@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="container">
-    <h1>{{ .Title }}</h1>
+    <h1>{{ i18n "projects" }}</h1>
     {{ .Content }}
     
     <style>
@@ -24,7 +24,7 @@
             <div class="project-card-content">
                 <h3>{{ .Title }}</h3>
                 {{ .Summary }}
-                <span class="read-more">{{ i18n "readMore" }}</span>
+                <span class="read-more"> >> {{ i18n "readMore" }}</span>
             </div>
         </a>
         {{ end }}

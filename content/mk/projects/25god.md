@@ -4,6 +4,15 @@ date: 2021-06-25T12:00:00+01:00
 draft: false
 image: "/images/projects/25god.jpg"
 summary: "Прослава на четврт век хуманитарна работа и посветеност на заедницата на Ротари Клуб Битола, одбележана со свечен настан и признанија за истакнати придонеси."
+gallery:
+    - image: "/images/projects/25god.jpg"
+      alt: "25 години Ротари Клуб Битола"
+    - image: "/images/projects/25god.jpg"
+      alt: "Rotary Club Bitola anniversary"
+    - image: "/images/projects/cesma1.jpg"
+    - image: "/images/projects/End-Polio.png"
+      alt: "End Polio initiative"
+weight: 1
 ---
 
 # 25 години Ротари Клуб Битола

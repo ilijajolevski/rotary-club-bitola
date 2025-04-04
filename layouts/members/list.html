@@ -3,7 +3,7 @@
     <h1>{{ .Title }}</h1>
     
     <div class="members-intro">
-        <div class="members-intro-content two-columns">
+        <div class="members-intro-content">
             <div class="members-intro-text">
                 {{ .Content }}
             </div>
@@ -19,9 +19,15 @@
             {{ with .Params.photo }}
             <img class="member-photo" src="{{ . }}" alt="{{ $.Title }}">
             {{ end }}
-            <h3>{{ .Title }}</h3>
+            <h3>
+                {{ .Title }}
+                {{ with .Params.linkedin }}
+                <a href="{{ . }}" target="_blank" rel="noopener" class="linkedin-icon" title="LinkedIn Profile">
+                    <i class="fa fa-linkedin-square"></i>
+                </a>
+                {{ end }}
+            </h3>
             {{ with .Params.position }}<p class="member-position">{{ . }}</p>{{ end }}
-            {{ with .Params.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener">LinkedIn</a>{{ end }}
             <div class="member-bio">
                 {{ .Summary }}
                 {{ if .Truncated }}
@@ -34,7 +40,7 @@
 </div>
 
 <style>
-    .members-intro-content.two-columns {
+    .members-intro-content {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-gap: 2rem;
@@ -49,11 +55,22 @@
     .members-grid.two-columns {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        grid-gap: 2rem;
+        grid-gap: 1rem;
+        font-size: 0.9em;
     }
-    
+
+    .linkedin-icon {
+        margin-left: 0.2rem;
+      
+    }
+
+    .linkedin-icon:hover {
+        color: #0077b5;
+        text-decoration: none;
+    }
+
     @media (max-width: 768px) {
-        .members-intro-content.two-columns {
+        .members-intro-content {
             grid-template-columns: 1fr;
         }
         

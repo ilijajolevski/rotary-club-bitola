@@ -3,7 +3,7 @@ title: "Владимир Костурски"
 date: 2022-11-19T10:47:58+10:00
 draft: false
 photo: "/images/members/vlade-kosturski.jpg"
-position: "Club President 2023/2024"
+position: "PP 2021/2022"
 linkedin: "https://www.linkedin.com/vladimirkosturski"
 ---
 

@@ -3,7 +3,7 @@ title: "Ilija Jolevski"
 date: 2023-03-20T12:00:00+01:00
 draft: false
 photo: "/images/members/Rotary_Ilija_Jolevski.jpeg"
-position: "Club President 2022/2023"
+position: "PP 2022/2023"
 linkedin: "httphttps://www.linkedin.com/ilijajolevski"
 ---
 

@@ -4,6 +4,14 @@ date: 2021-06-25T12:00:00+01:00
 draft: false
 image: "/images/projects/25god.jpg"
 summary: "25 years of Rotary Club Bitola"
+gallery:
+    - image: "/images/projects/25god.jpg"
+      alt: "25 years anniversary celebration"
+    - image: "/images/projects/25god.jpg"
+      alt: "Rotary Club Bitola anniversary"
+    - image: "/images/projects/cesma1.jpg"
+    - image: "/images/projects/End-Polio.png"
+      alt: "End Polio initiative"
 ---
 
 # 25 years of Rotary Club Bitola

@@ -23,6 +23,9 @@
 <link rel="canonical" href="http://localhost:1313/en/projects/cesmata/">
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 <style>
     :root {
         --rotary-blue: #0c3c7c;
@@ -153,20 +156,20 @@
                 
                 
                 <li>
+                    <a href="/en/" >
+                        Home
+                    </a>
+                </li>
+                
+                <li>
                     <a href="/en/projects/" >
-                        Projects
+                        Projects and events
                     </a>
                 </li>
                 
                 <li>
                     <a href="/en/members/" >
                         Members
-                    </a>
-                </li>
-                
-                <li>
-                    <a href="/en/about/" >
-                        About
                     </a>
                 </li>
                 
@@ -209,8 +212,62 @@
 <p>The official unveiling ceremony was attended by city officials, Rotary members, and community representatives, highlighting the collaborative spirit that made this project a success. The Rotary Club Bitola remains committed to identifying and undertaking projects that preserve our heritage while improving quality of life in our community.</p>
 
         </div>
+        
+        
     </article>
 </div>
+
+<style>
+    .project-gallery {
+        margin-top: 2rem;
+    }
+    
+    .gallery-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 20px;
+    }
+    
+    .gallery {
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        width: calc(33.33% - 20px);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        transition: 0.3s;
+    }
+    
+    .gallery:hover {
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    }
+    
+    .gallery img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+    
+    .gallery a {
+        display: block;
+    }
+    
+    .desc {
+        padding: 15px;
+        text-align: center;
+    }
+    
+    @media (max-width: 768px) {
+        .gallery {
+            width: calc(50% - 15px);
+        }
+    }
+    
+    @media (max-width: 480px) {
+        .gallery {
+            width: 100%;
+        }
+    }
+</style>
 
     </main>
     <footer>

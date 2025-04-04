@@ -3,7 +3,7 @@ title: "Mende Micevski"
 date: 2022-11-19T10:47:58+10:00
 draft: false
 photo: "/images/members/mende-micevski.jpg"
-position: "Tresorist"
+position: "PP 2018/19, PHF"
 linkedin: "https://www.linkedin.com/vladimirkosturski"
 ---
 
