@@ -6,7 +6,7 @@
     <description>Recent content in Ротари Клуб Битола on Rotary Club Bitola</description>
     <generator>Hugo</generator>
     <language>mk</language>
-    <lastBuildDate>Mon, 20 Mar 2023 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 08:46:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/mk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Тони Дранговски</title>
@@ -17,9 +17,9 @@
     </item>
     <item>
       <title>25 години Ротари Клуб Битола</title>
-      <link>http://localhost:1313/mk/projects/25god/</link>
+      <link>http://localhost:1313/mk/projects/25th-aniversary/</link>
       <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/mk/projects/25god/</guid>
+      <guid>http://localhost:1313/mk/projects/25th-aniversary/</guid>
       <description>Прослава на четврт век хуманитарна работа и посветеност на заедницата на Ротари Клуб Битола, одбележана со свечен настан и признанија за истакнати придонеси.</description>
     </item>
     <item>
@@ -31,9 +31,9 @@
     </item>
     <item>
       <title>Реставрација на историската чешма кај Офицерски дом</title>
-      <link>http://localhost:1313/mk/projects/cesmata/</link>
+      <link>http://localhost:1313/mk/projects/oficerski-fountain-restoration/</link>
       <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/mk/projects/cesmata/</guid>
+      <guid>http://localhost:1313/mk/projects/oficerski-fountain-restoration/</guid>
       <description>Реставрација на историската чешма кај Офицерски дом</description>
     </item>
     <item>
@@ -42,6 +42,13 @@
       <pubDate>Sat, 19 Nov 2022 10:47:58 +1000</pubDate>
       <guid>http://localhost:1313/mk/members/mende-micevski/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>25 години на Ротари Клубот Битола: Предавање за Ротаријанството</title>
+      <link>http://localhost:1313/mk/projects/25th-aniversary-lecture/</link>
+      <pubDate>Tue, 30 Apr 2024 08:46:00 -0700</pubDate>
+      <guid>http://localhost:1313/mk/projects/25th-aniversary-lecture/</guid>
+      <description>Славје на 25 години со предавање за ротаријанството, присуство на членови и историски увиди</description>
     </item>
     <item>
       <title>Илија Јолевски</title>
