@@ -23,7 +23,7 @@
                 {{ .Title }}
                 {{ with .Params.linkedin }}
                 <a href="{{ . }}" target="_blank" rel="noopener" class="linkedin-icon" title="LinkedIn Profile">
-                    <i class="fa fa-linkedin-square"></i>
+                    <img src="/images/li.svg" alt="LinkedIn" class="linkedin-svg">
                 </a>
                 {{ end }}
             </h3>
@@ -67,6 +67,14 @@
     .linkedin-icon:hover {
         color: #0077b5;
         text-decoration: none;
+    }
+
+    .linkedin-svg {
+        height: 1em;
+        width: auto;
+        vertical-align: middle;
+        position: relative;
+        top: -2px; /* Move up 1px */
     }
 
     @media (max-width: 768px) {
