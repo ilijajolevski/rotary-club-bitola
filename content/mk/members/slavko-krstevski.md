@@ -2,7 +2,7 @@
 title: "Славко Крстевски"
 date: 2022-11-19T10:47:58+10:00
 draft: false
-photo: "/images/members/male-member.png"
+photo: "/images/members/PRO_0907-slavcho.jpg"
 position: "PP 2018/19, PHF"
 ---
 

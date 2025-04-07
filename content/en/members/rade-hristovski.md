@@ -2,7 +2,7 @@
 title: "Rade Hristovski"
 date: 2023-03-20T12:00:00+01:00
 draft: false
-photo: "/images/members/rade-hristovski.jpg"
+photo: "/images/members/PRO_0965-rade.jpg"
 position: "PDG D1912 2023/2024, PHF+4"
 linkedin: "https://linkedin.com/in/rade-hristovski"
 weight: 2

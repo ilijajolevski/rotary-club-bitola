@@ -2,7 +2,7 @@
 title: "Илија Јолевски"
 date: 2023-03-20T12:00:00+01:00
 draft: false
-photo: "/images/members/Rotary_Ilija_Jolevski.jpeg"
+photo: "/images/members/PRO_0949-ilija.jpg"
 position: "PP 2022/2023"
 linkedin: "httphttps://www.linkedin.com/ilijajolevski"
 ---

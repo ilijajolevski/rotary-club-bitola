@@ -2,7 +2,7 @@
 title: "Biljana Gagachovska"
 date: 2022-11-19T10:47:58+10:00
 draft: false
-photo: "/images/members/female-member.png"
+photo: "/images/members/20240312_104147-biljana.jpg"
 position: "PP 2018/19"
 ---
 
