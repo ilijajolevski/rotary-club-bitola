@@ -2,7 +2,7 @@
 title: "Jasmina Bunevska"
 date: 2022-11-19T10:47:58+10:00
 draft: false
-photo: "/images/members/female-member.png"
+photo: "/images/members/jasmina-n.jpg"
 position: "PP 2018/19, PHF"
 ---
 
